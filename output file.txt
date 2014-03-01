@@ -1,0 +1,27 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building mahoutrec 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] >>> exec-maven-plugin:1.2.1:java (default-cli) @ mahoutrec >>>
+[INFO] 
+[INFO] <<< exec-maven-plugin:1.2.1:java (default-cli) @ mahoutrec <<<
+[INFO] 
+[INFO] --- exec-maven-plugin:1.2.1:java (default-cli) @ mahoutrec ---
+User 1: RecommendedItem[item:4, value:1.0]
+User 1: RecommendedItem[item:49, value:1.0]
+User 2: RecommendedItem[item:2, value:1.0]
+User 2: RecommendedItem[item:4, value:1.0]
+User 3: RecommendedItem[item:3, value:1.0]
+User 3: RecommendedItem[item:49, value:1.0]
+User 4: RecommendedItem[item:2, value:1.0]
+User 4: RecommendedItem[item:4, value:1.0]
+User 5: RecommendedItem[item:49, value:1.0]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 3.888s
+[INFO] Finished at: Fri Feb 28 18:30:57 PST 2014
+[INFO] Final Memory: 8M/57M
+[INFO] ------------------------------------------------------------------------
